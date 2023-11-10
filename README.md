@@ -9,6 +9,7 @@ Note that a function cannot be overloaded only by its return type. At least one 
 ## Step 2 - Unzip Folder
 ## Step 3 - CMake
 Download CMake from https://cmake.org/download/
+Install CMake
 Open CMake (cmake-gui)
 ## Step 4 - Build
 ## Step 5 - Run
@@ -18,6 +19,7 @@ Open CMake (cmake-gui)
 ## Step 2 - Unzip Folder
 ## Step 3 - CMake
 Download CMake from https://cmake.org/download/
+Install CMake
 Open CMake (cmake-gui)
 ## Step 4 - Build
 ## Step 5 - Run
