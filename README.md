@@ -6,12 +6,18 @@ Note that a function cannot be overloaded only by its return type. At least one 
 
 # How to run on Windows (Visual Studio)
 ## Step 1 - Download Zip
-## Step 2 - CMake
-## Step 3 - Build
-## Step 4 - Run
+## Step 2 - Unzip Folder
+## Step 3 - CMake
+Download CMake from https://cmake.org/download/
+Open CMake (cmake-gui)
+## Step 4 - Build
+## Step 5 - Run
 
 # How to run on Mac (XCode)
 ## Step 1 - Download Zip
-## Step 2 - CMake
-## Step 3 - Build
-## Step 4 - Run
+## Step 2 - Unzip Folder
+## Step 3 - CMake
+Download CMake from https://cmake.org/download/
+Open CMake (cmake-gui)
+## Step 4 - Build
+## Step 5 - Run
