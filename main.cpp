@@ -1,4 +1,19 @@
 /*
+ * What you need:
+ * CLion IDE
+ *
+ * Step 1:
+ * Download Zip
+ *
+ * Step 2:
+ * Unzip
+ *
+ * Step 3:
+ * Open main.cpp in CLion
+ *
+ * Step 4:
+ * Done!
+ *
  * The purpose of this program is to demonstrate the concept of
  * overloaded functions.
  *
@@ -6,12 +21,15 @@
  * are different; either because they have a different number of parameters,
  * or because any of their parameters are of different type.
  *
- *
  * The compiler knows which one to call in each case by examining the types
  * passed as arguments when the function is called.
  *
  * Note that a function cannot be overloaded only by its return type.
  * At least one of its parameters must have a different type.
+ *
+ * This program was written by Alexander John using information from the source below.
+ *
+ * Source: https://cplusplus.com/doc/tutorial/functions2/
  */
 
 #include <iostream>
